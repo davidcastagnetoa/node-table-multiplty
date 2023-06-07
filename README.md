@@ -1,6 +1,6 @@
 # Application Description
 
-This is a NodeJs application that generates multiplication tables for a given number and exports the content to a txt file. The application is based on Fernando Herrera's Node course on Udemy..
+This is a NodeJs application that generates multiplication tables for a given number and exports the content to a txt file. The application is based on Fernando Herrera's Node course on Udemy.
 
 ## Installation
 
